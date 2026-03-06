@@ -3,7 +3,7 @@ package com.p1nero.lang_amend;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
-import net.minecraftforge.fml.loading.FMLPaths; // Forge 专用路径，Fabric 需替换
+import net.minecraftforge.fml.loading.FMLPaths;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
